@@ -1,5 +1,5 @@
 """
-Generates sample_products.json — a local fallback dataset styled after the
+Generates sample_products.json, a local fallback dataset styled after the
 dummyjson.com/products API response. This is ONLY used by data_quality_detective.py
 when the live API cannot be reached (e.g. no network access), so the pipeline can
 still be demonstrated end-to-end. It intentionally contains the same kinds of
