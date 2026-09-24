@@ -1,4 +1,4 @@
-# Obstacle Log — Live Data Quality Detective
+# Obstacle Log : Live Data Quality Detective
 
 ## 1. API blocked the request in this sandbox
 The build/test environment I used to write and verify this script does not
@@ -10,8 +10,8 @@ edge/WAF block on the sandbox's egress, not an issue with dummyjson itself).
 request a few times with a short backoff, and if the API still can't be
 reached it falls back to a small bundled `sample_products.json` file
 (modeled on the real API's schema and known quirks, e.g. missing `brand`
-for beauty/skincare items) so the rest of the pipeline — detection,
-cleaning, reporting — can still be exercised end-to-end. On a machine with
+for beauty/skincare items) so the rest of the pipeline, detection,
+cleaning, reporting, can still be exercised end-to-end. On a machine with
 normal internet access, the script pulls live data on the first try and the
 fallback path never triggers. The report clearly labels which source was
 actually used (`**Data source:**` line at the top).
@@ -25,13 +25,13 @@ rows that only differed by casing.
 **Fix:** added an explicit "inconsistent formatting" check (case-insensitive
 grouping to count how many values are affected) as one of the required
 data-quality issue types, and normalize casing on the text columns as the
-*first* cleaning step, before dropping duplicates — otherwise
+*first* cleaning step, before dropping duplicates, otherwise
 `drop_duplicates()` wouldn't catch rows that are identical except for
 casing.
 
 ## 3. Deciding how to "clean" suspicious values
 Simply deleting rows with a negative price or an out-of-range rating felt
-too aggressive — those numbers might be typos worth reviewing rather than
+too aggressive, those numbers might be typos worth reviewing rather than
 noise worth discarding, and dropping them silently would just be a
 different way of losing information.
 
