@@ -1,6 +1,6 @@
 # Data Quality Report
 
-**Data source:** local fallback file (sample_products.json, 125 records — API unreachable)  
+**Data source:** local fallback file (sample_products.json, 125 records, API unreachable)  
 **Original record count:** 125  
 **Columns:** id, title, category, brand, price, discountPercentage, rating, stock, sku, weight, warrantyInformation, availabilityStatus
 
@@ -54,7 +54,7 @@ max    120.00  1989.08               29.91    9.52  497.00   19.68
 - rating out of 0 to 5: 5 record(s)
 - negative discount: 1 record(s)
 
-### Inconsistent formatting (e.g. mixed casing)
+### Inconsistent formatting (eg: mixed casing)
 - `category`: 21 value(s) affected by inconsistent casing
 
 ## 3. Cleaning Summary
