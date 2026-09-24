@@ -1,0 +1,126 @@
+id,title,category,brand,price,discountPercentage,rating,stock,sku,weight,warrantyInformation,availabilityStatus
+66,Product 66,beauty,,593.75,10.98,0.88,276,SKU-1066,3.37,,Low Stock
+11,Product 11,fragrances,,427.54,20.15,3.65,159,SKU-1011,9.08,1 month warranty,In Stock
+1,Product 1,LAPTOPS,Huawei,283.38,0.89,3.7,302,SKU-1001,0.63,1 month warranty,Out of Stock
+38,Product 38,fragrances,,439.84,21.55,3.83,310,SKU-1038,6.29,1 week warranty,Low Stock
+97,Product 97,laptops,Microsoft Surface,901.39,13.53,4.16,466,SKU-1097,,1 week warranty,Low Stock
+6,Product 6,laptops,,1753.35,4.29,3.28,468,SKU-1006,10.83,,Out of Stock
+37,Product 37,laptops,Calvin Klein,108.91,22.63,1.12,490,SKU-1037,0.51,1 month warranty,In Stock
+63,Product 63,groceries,OPPO,152.35,7.5,4.94,492,SKU-1063,7.76,,In Stock
+85,Product 85,home-decoration,,922.89,17.67,1.81,54,SKU-1085,6.27,No warranty,In Stock
+79,Product 79,womens-dresses,Impression of Acqua Di Gio,452.37,6.78,4.23,390,SKU-1079,15.37,1 week warranty,Out of Stock
+69,Product 69,skincare,Impression of Acqua Di Gio,607.87,3.48,0.7,155,SKU-1069,7.83,No warranty,Out of Stock
+24,Product 24,fragrances,,82.26,23.86,1.0,179,SKU-1024,,1 month warranty,Low Stock
+56,Product 56,groceries,Microsoft Surface,833.9,27.66,2.36,74,SKU-1056,17.29,No warranty,Low Stock
+29,Product 29,fragrances,,1267.72,24.2,4.09,344,SKU-1029,,,Out of Stock
+108,Product 108,fragrances,,560.99,16.85,0.13,265,SKU-1108,8.98,No warranty,Out of Stock
+46,Product 46,womens-dresses,OPPO,1277.55,5.53,6.46,245,SKU-1046,9.61,1 week warranty,Low Stock
+9,Product 9,fragrances,Samsung,600.4,28.6,3.04,390,SKU-1009,12.02,,In Stock
+96,Product 96,groceries,Calvin Klein,1057.28,1.57,4.08,70,SKU-1096,18.69,1 week warranty,Low Stock
+26,Product 26,laptops,Dell,1458.45,5.7,3.03,197,SKU-1026,10.45,1 month warranty,Low Stock
+82,Product 82,tops,Impression of Acqua Di Gio,1216.12,8.5,1.08,176,SKU-1082,13.38,1 week warranty,In Stock
+70,Product 70,womens-dresses,OPPO,1771.4,0.98,4.17,480,SKU-1070,19.02,No warranty,In Stock
+2,Product 2,womens-dresses,Impression of Acqua Di Gio,1180.59,8.34,0.03,357,SKU-1002,2.13,,In Stock
+10,Product 10,laptops,Microsoft Surface,482.71,2.08,2.84,374,SKU-1010,2.65,,Out of Stock
+86,Product 86,home-decoration,Samsung,1023.41,28.75,2.55,178,SKU-1086,2.15,No warranty,In Stock
+83,Product 83,furniture,Apple,20.34,3.6,1.06,130,SKU-1083,2.67,1 month warranty,Out of Stock
+12,Product 12,laptops,,1110.07,27.16,0.04,30,SKU-1012,4.84,,In Stock
+28,Product 28,furniture,OPPO,1232.95,18.2,6.48,220,SKU-1028,13.54,,Out of Stock
+55,Product 55,Tops,,1599.63,27.39,7.06,115,SKU-1055,16.66,,Out of Stock
+44,Product 44,womens-dresses,Calvin Klein,664.93,9.47,1.35,61,SKU-1044,13.83,1 month warranty,In Stock
+60,Product 60,beauty,Samsung,1705.42,14.64,1.9,367,SKU-1060,4.77,No warranty,In Stock
+33,Product 33,home-decoration,Samsung,281.06,9.93,3.47,32,SKU-1033,16.67,,Out of Stock
+72,Product 72,fragrances,,1531.49,23.66,1.08,168,SKU-1072,19.68,1 month warranty,Out of Stock
+66,Product 66,beauty,,593.75,10.98,0.88,276,SKU-1066,3.37,,Low Stock
+51,Product 51,furniture,Calvin Klein,1082.26,7.51,2.99,376,SKU-1051,16.74,1 week warranty,Out of Stock
+58,Product 58,home-decoration,Huawei,1145.74,27.4,3.88,381,SKU-1058,15.87,1 month warranty,Low Stock
+119,Product 119,groceries,,1362.4,16.73,4.88,406,SKU-1119,12.09,,Out of Stock
+21,Product 21,SMARTPHONES,Microsoft Surface,92.95,16.55,0.65,82,SKU-1021,,1 week warranty,Out of Stock
+117,Product 117,fragrances,,1758.76,6.45,0.45,234,SKU-1117,9.95,,Low Stock
+14,Product 14,furniture,Samsung,501.07,26.23,2.24,142,SKU-1014,17.13,1 week warranty,In Stock
+110,Product 110,fragrances,OPPO,1019.97,10.83,1.0,404,SKU-1110,19.66,1 month warranty,Out of Stock
+118,Product 118,WOMENS-DRESSES,OPPO,1765.5,16.85,3.82,205,SKU-1118,7.79,,Out of Stock
+104,Product 104,home-decoration,Apple,1732.27,13.19,0.62,455,SKU-1104,3.82,,Low Stock
+78,Product 78,Womens-dresses,Calvin Klein,662.64,27.48,1.77,384,SKU-1078,6.32,1 week warranty,Out of Stock
+36,Product 36,beauty,Samsung,275.72,10.13,0.25,108,SKU-1036,19.03,,Low Stock
+71,Product 71,home-decoration,Dell,125.8,19.88,4.84,421,SKU-1071,0.53,No warranty,In Stock
+16,Product 16,tops,Calvin Klein,1325.43,16.27,0.95,29,SKU-1016,11.73,1 month warranty,In Stock
+13,Product 13,Womens-dresses,,1154.54,12.93,2.36,48,SKU-1013,14.61,1 week warranty,In Stock
+31,Product 31,womens-dresses,Calvin Klein,502.15,16.77,2.28,341,SKU-1031,8.91,,Out of Stock
+113,Product 113,womens-dresses,Microsoft Surface,1230.78,19.76,3.2,297,SKU-1113,16.87,1 week warranty,In Stock
+17,Product 17,WOMENS-DRESSES,,140.58,17.84,2.02,291,SKU-1017,11.72,No warranty,Low Stock
+45,Product 45,tops,,1953.33,10.83,1.41,99,SKU-1045,2.62,1 week warranty,In Stock
+52,Product 52,groceries,OPPO,943.65,24.43,4.58,299,SKU-1052,8.23,No warranty,Out of Stock
+98,Product 98,womens-dresses,HP Pavilion,1989.08,10.06,0.14,429,SKU-1098,,,Out of Stock
+92,Product 92,beauty,,756.48,29.91,4.07,424,SKU-1092,13.44,No warranty,In Stock
+47,Product 47,Tops,Apple,307.7,22.93,4.75,127,SKU-1047,4.59,,Low Stock
+50,Product 50,laptops,OPPO,1817.28,24.73,0.36,157,SKU-1050,9.43,No warranty,Out of Stock
+44,Product 44,womens-dresses,Calvin Klein,664.93,9.47,1.35,61,SKU-1044,13.83,1 month warranty,In Stock
+64,Product 64,skincare,,1985.42,27.32,4.89,-2,SKU-1064,18.07,1 month warranty,Out of Stock
+69,Product 69,skincare,Impression of Acqua Di Gio,607.87,3.48,0.7,155,SKU-1069,7.83,No warranty,Out of Stock
+94,Product 94,home-decoration,,266.44,27.08,0.81,394,SKU-1094,,No warranty,Out of Stock
+35,Product 35,groceries,Apple,780.77,3.83,3.99,430,SKU-1035,,,Out of Stock
+59,Product 59,Smartphones,Dell,1740.05,12.3,2.2,-5,SKU-1059,9.44,No warranty,Low Stock
+99,Product 99,fragrances,,15.48,18.27,1.28,280,SKU-1099,4.83,1 week warranty,In Stock
+23,Product 23,furniture,OPPO,1851.9,0.74,0.81,90,SKU-1023,18.62,1 month warranty,Low Stock
+63,Product 63,groceries,OPPO,152.35,7.5,4.94,492,SKU-1063,7.76,,In Stock
+90,Product 90,laptops,OPPO,83.09,11.19,4.95,312,SKU-1090,6.83,1 week warranty,Out of Stock
+95,Product 95,skincare,,1498.33,27.12,2.67,414,SKU-1095,11.45,,Low Stock
+42,Product 42,tops,HP Pavilion,676.11,10.21,1.63,181,SKU-1042,5.6,1 week warranty,Out of Stock
+76,Product 76,womens-dresses,Samsung,1587.23,6.45,3.27,282,SKU-1076,6.84,,Low Stock
+67,Product 67,home-decoration,Impression of Acqua Di Gio,1925.97,11.92,4.83,370,SKU-1067,1.9,,In Stock
+18,Product 18,skincare,,794.59,0.28,1.5,384,SKU-1018,2.09,1 month warranty,Out of Stock
+8,Product 8,groceries,Apple,1362.17,3.35,4.42,393,SKU-1008,19.08,No warranty,Out of Stock
+106,Product 106,tops,Apple,1454.99,28.44,3.07,327,SKU-1106,7.33,1 month warranty,In Stock
+65,Product 65,home-decoration,Huawei,1243.68,2.91,3.6,429,SKU-1065,,,In Stock
+107,Product 107,fragrances,,139.13,4.6,1.83,290,SKU-1107,8.93,1 week warranty,Out of Stock
+27,Product 27,Furniture,Dell,1248.2,12.25,0.62,259,SKU-1027,2.63,,Out of Stock
+53,Product 53,laptops,Dell,826.23,13.64,3.31,389,SKU-1053,19.41,,Out of Stock
+20,Product 20,laptops,OPPO,532.61,21.53,3.71,144,SKU-1020,5.35,,Low Stock
+115,Product 115,TOPS,Impression of Acqua Di Gio,834.17,22.03,1.7,441,SKU-1115,2.7,No warranty,Out of Stock
+41,Product 41,womens-dresses,Microsoft Surface,1233.75,8.05,3.87,422,SKU-1041,1.82,,In Stock
+57,Product 57,home-decoration,Calvin Klein,-14.42,4.46,4.19,337,SKU-1057,11.08,,Low Stock
+120,Product 120,SMARTPHONES,Dell,1608.91,18.39,0.74,71,SKU-1120,14.81,No warranty,Out of Stock
+25,Product 25,home-decoration,Samsung,1933.94,28.18,3.21,431,SKU-1025,3.65,No warranty,In Stock
+116,Product 116,WOMENS-DRESSES,Samsung,538.61,12.54,0.48,196,SKU-1116,16.29,No warranty,In Stock
+112,Product 112,furniture,Apple,1663.62,10.38,1.52,478,SKU-1112,16.93,No warranty,In Stock
+5,Product 5,fragrances,,762.01,23.05,3.2,350,SKU-1005,16.12,,Low Stock
+32,Product 32,tops,Impression of Acqua Di Gio,902.89,18.8,4.2,398,SKU-1032,5.79,No warranty,Low Stock
+88,Product 88,TOPS,Microsoft Surface,1593.68,1.71,1.76,236,SKU-1088,17.3,1 week warranty,Out of Stock
+19,Product 19,GROCERIES,Samsung,1759.14,29.52,0.79,360,SKU-1019,13.39,No warranty,Out of Stock
+49,Product 49,WOMENS-DRESSES,Impression of Acqua Di Gio,1380.3,13.62,0.16,144,SKU-1049,15.78,1 month warranty,Low Stock
+80,Product 80,GROCERIES,Microsoft Surface,1843.47,4.26,0.91,336,SKU-1080,,1 month warranty,Low Stock
+109,Product 109,tops,OPPO,1706.39,29.03,4.49,44,SKU-1109,14.22,No warranty,Low Stock
+68,Product 68,groceries,Impression of Acqua Di Gio,740.33,3.25,1.31,326,SKU-1068,,No warranty,Out of Stock
+22,Product 22,fragrances,,300.45,1.2,1.54,407,SKU-1022,13.37,No warranty,Out of Stock
+62,Product 62,womens-dresses,OPPO,344.12,17.49,4.35,123,SKU-1062,9.25,1 week warranty,Low Stock
+103,Product 103,laptops,Impression of Acqua Di Gio,78.78,15.46,3.96,161,SKU-1103,5.14,1 month warranty,Low Stock
+7,Product 7,furniture,OPPO,1021.5,20.41,0.24,321,SKU-1007,11.96,,Out of Stock
+111,Product 111,LAPTOPS,Impression of Acqua Di Gio,1053.76,2.22,4.12,497,SKU-1111,2.65,1 month warranty,In Stock
+30,Product 30,laptops,,392.9,26.78,2.47,335,SKU-1030,15.59,1 month warranty,In Stock
+74,Product 74,home-decoration,Samsung,906.75,15.64,3.08,465,SKU-1074,1.31,,Low Stock
+114,Product 114,Laptops,,532.99,18.81,2.86,15,SKU-1114,9.71,,Low Stock
+100,Product 100,skincare,,226.16,-13.3,7.57,123,SKU-1100,3.83,1 week warranty,Out of Stock
+101,Product 101,Home-decoration,Calvin Klein,1573.89,29.43,0.1,22,SKU-1101,,1 week warranty,Low Stock
+84,Product 84,womens-dresses,Dell,148.79,12.88,9.52,441,SKU-1084,5.86,,In Stock
+34,Product 34,smartphones,,-32.76,16.15,3.77,488,SKU-1034,17.97,,In Stock
+65,Product 65,home-decoration,Huawei,1243.68,2.91,3.6,429,SKU-1065,,,In Stock
+77,Product 77,furniture,Dell,856.39,2.74,1.87,472,SKU-1077,14.92,No warranty,In Stock
+4,Product 4,LAPTOPS,Microsoft Surface,1970.52,10.94,4.33,232,SKU-1004,5.41,1 week warranty,Out of Stock
+81,Product 81,furniture,OPPO,743.26,4.67,3.88,43,SKU-1081,,1 week warranty,Low Stock
+89,Product 89,beauty,,1908.69,9.65,0.21,292,SKU-1089,1.33,1 week warranty,Low Stock
+93,Product 93,home-decoration,Huawei,686.76,25.33,0.96,79,SKU-1093,16.72,1 week warranty,Out of Stock
+102,Product 102,skincare,Samsung,1471.7,24.91,0.22,416,SKU-1102,9.62,1 month warranty,In Stock
+40,Product 40,womens-dresses,Dell,142.57,28.82,0.06,250,SKU-1040,14.18,,In Stock
+75,Product 75,furniture,Impression of Acqua Di Gio,1426.24,8.25,4.5,75,SKU-1075,6.57,No warranty,Low Stock
+54,Product 54,smartphones,Calvin Klein,926.64,22.8,2.59,255,SKU-1054,18.56,,Out of Stock
+15,Product 15,womens-dresses,Samsung,1853.1,27.07,0.83,109,SKU-1015,,,Low Stock
+87,Product 87,fragrances,,1546.83,26.46,3.77,229,SKU-1087,6.53,No warranty,In Stock
+43,Product 43,Skincare,,484.45,6.65,3.56,8,SKU-1043,11.67,,Out of Stock
+48,Product 48,tops,,1980.11,22.88,3.11,378,SKU-1048,1.72,1 month warranty,In Stock
+3,Product 3,home-decoration,,532.72,16.56,2.3,472,SKU-1003,17.25,1 month warranty,Out of Stock
+105,Product 105,womens-dresses,Samsung,1455.53,3.08,3.01,279,SKU-1105,8.97,,In Stock
+61,Product 61,laptops,Samsung,1521.94,1.38,0.5,153,SKU-1061,7.56,1 month warranty,In Stock
+39,Product 39,beauty,,1431.45,9.05,3.45,52,SKU-1039,15.94,1 week warranty,Low Stock
+73,Product 73,groceries,Samsung,-49.27,1.57,3.95,-9,SKU-1073,14.94,,Low Stock
+91,Product 91,HOME-DECORATION,HP Pavilion,571.87,2.45,3.28,447,SKU-1091,6.27,,In Stock
