@@ -4,7 +4,7 @@ Live Data Quality Detective
 ============================
 Fetches a real JSON dataset from a public API (dummyjson.com/products),
 analyzes it for data-quality issues with pandas, produces a cleaned
-dataset, and writes a Markdown report summarizing everything found.
+dataset and writes a Markdown report summarizing everything found.
 
 Usage:
     python data_quality_detective.py
